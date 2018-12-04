@@ -22,10 +22,10 @@ browser.get('https://www.instagram.com/accounts/login/?hl=en')
 time.sleep(3)
 pyautogui.click(625,194)#login field
 time.sleep(1)
-pyautogui.typewrite('horizonadverts')
+pyautogui.typewrite('your instagram username here')
 pyautogui.click(593,242)#password field
 time.sleep(1)
-pyautogui.typewrite('gogoville1234')
+pyautogui.typewrite('your password')
 time.sleep(1)
 
 pyautogui.click(654,291)#login button
