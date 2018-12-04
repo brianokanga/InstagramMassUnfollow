@@ -9,3 +9,4 @@ mouse clicks at certain positions <br>
 <h1>-i have written the script so that most of the possible error will not affect it very much and it should be good 
 to go. 
 I recommend that you dont extend the limit of the unfollowers to more than 200 as instagram will block them after some time moreover if you think that the process is too slow thats because i made this bot for 24/7 use and you shouldnt increase the rate as it will imply to instagram that you are using a bot i myself tested it for one whole day with no major errors .</h1>
+<h1>Any possible errors can be fixed just by Restarting the program</h1>
